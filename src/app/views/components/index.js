@@ -1,6 +1,6 @@
 import React, { Fragment, useState, useEffect } from 'react';
 import { Navbar } from '../../components'
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import { HashRouter as Router, Route } from 'react-router-dom'
 import UserProfileContextProvider from "../../lib/UserProfileContext"
 import { CartPage } from './Cart'
 import { Home } from './Home'
