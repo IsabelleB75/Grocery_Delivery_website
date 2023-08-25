@@ -1,10 +1,10 @@
-# Grocery Delivery: Commerce en ligne 🛒
+# <span style="color:20308C;">Grocery Delivery: Commerce en ligne</span>
 
-## Contexte
+## <span style="color:#20308C;">Contexte</span>
 
-Ce projet a été réalisé dans le cadre de ma formation IBM Skillsbuild portant sur React, Redux et le Contexte API. Il a été développé en suivant étape par étape les instructions et les bonnes pratiques enseignées par le formateur. Le site représente un système de livraison de commerce de produits alimentaires en ligne, permettant aux utilisateurs de parcourir des produits, de les ajouter à leur panier, et de passer une commande.
+Ce projet a été réalisé dans le cadre de ma formation **IBM Skillsbuild** portant sur React, Redux et le Contexte API. Il a été développé en suivant étape par étape les instructions et les bonnes pratiques enseignées par le formateur. Le site représente un système de livraison de commerce de produits alimentaires en ligne, permettant aux utilisateurs de parcourir des produits, de les ajouter à leur panier, et de passer une commande.
 
-## Fonctionnalités principales
+## <span style="color:#20308C;">Fonctionnalités principales</span>
 
 - **Navigation par catégorie** : Les utilisateurs peuvent parcourir les produits selon différentes catégories.
 - **Panier d'achat dynamique** : Ajout et suppression d'articles, mise à jour en temps réel du total.
@@ -12,7 +12,7 @@ Ce projet a été réalisé dans le cadre de ma formation IBM Skillsbuild portan
 - **Gestion d'utilisateur** : Connexion, inscription et gestion de profil.
 - **Backend simulant une API** : Pour le développement, une simulation d'API a été utilisée pour gérer les produits, les catégories et les commandes.
 
-## Technologies utilisées
+## <span style="color:#20308C;">Technologies utilisées</span>
 
 - **React** : Pour la construction des interfaces utilisateur.
 - **Redux** : Pour la gestion d'état global de l'application.
@@ -22,16 +22,17 @@ Ce projet a été réalisé dans le cadre de ma formation IBM Skillsbuild portan
 - **Bootstrap** : Pour la mise en forme des pages.
 - **JavaScript** : Pour la logique de l'application.
 
-## Comment exécuter le projet ?
+## <span style="color:#20308C;">Comment exécuter le projet ?</span>
 
 1. Clonez ce dépôt.
 2. Installez les dépendances en utilisant `yarn install` ou `npm install`.
 3. Lancez le projet avec `yarn start` ou `npm start`.
 4. Ouvrez votre navigateur et naviguez vers `http://localhost:3000`.
 
-## Remerciements
+## <span style="color:#20308C;">Remerciements</span>
 
 Je tiens à remercier les formateurs d'IBM SkillsBuild et la plateforme Udemy pour ce cours enrichissant. Ce projet m'a permis de renforcer mes compétences en HTML, CSS, Bootstrap, Javascript, React et d'apprendre à utiliser Redux et le Contexte API de manière efficace.
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
